@@ -1,0 +1,96 @@
+Test Cases - Project 01
+
+No.	Test Cases
+	
+01	Enter a partially matching keyword with a program in the search box
+02	Enter a keyword which is not matching with program in the search box
+03	Enter a exactly matching keyword with a program in the search box
+04	Select an option from suggestion list
+05	Click within box after getting suggested list of programs
+06	Click the cross icon, after getting suggested list of programs
+07	Click on the cross icons of selected options, after selecting checkboxes
+08	Click within box after selecting checkboxes
+09	Hit the down arrow icon 
+10	Hit the up arrow icon 
+11	Select a single checkbox of a single option
+12	Select multiple checkboxes of a single option
+13	Select a single checkbox of multiple options
+14	Select multiple checkboxes of multiple options
+15	Hit the 'Clear Filter' after selecting checkboxes
+16	Hit the 'Show event date & time' button
+17	Click on the 'Daily Schedule' link
+18	Click on the 'Contact Local Office' link
+19	Hit the 'Register' button
+20	Hit the 'Hide event date & time' button
+21	Enter first name
+22	Leave first name blank
+23	Enter last name
+24	Leave last name blank
+25	Enter new email
+26	Leave email as a blank
+27	Enter the incorrect email format
+28	Enter the already registered email 
+29	Select a country code from drop down
+30	Enter valid phone number
+31	Enter invalid phone number (BVA, ECP)
+32	Leave the phone number as blank
+33	Enter an address
+34	Leave the address as blank
+35	Enter an address (continued)
+36	Leave the address (continued) as blank
+37	Filter a drop down list of countries by entering matching keyword
+38	Enter a keyword in drop down box which is not matching with any country
+39	Select a state after selecting a country
+40	Enter city name
+41	Leave city name blank
+42	Enter valid zip code
+43	Enter invalid zip code (BVA, ECP)
+44	Leave the zip code as blank
+45	Enter valid password
+46	Enter invalid password
+47	Leave password as a blank
+48	Select the checkbox accepting that user having at least 18 years age
+49	Leave the check box of age
+50	Select check box to agree to all policies
+51	Leave the check box to agree to all policies
+52	Hit the 'Continue to payment' button after entering all the fields valid
+53	Hit the 'Continue to payment' button after entering some or all fields invalid
+54	Hit the 'Continue to payment' button when no data entered in fields
+55	Select radio button to pay full payment.
+56	Select radio button to deposit partial amount
+57	Enter first name
+58	Leave first name blank
+59	Enter last name
+60	Leave last name blank
+61	Select payment instrument as a card
+62	Select payment instrument as a PayPal
+63	Enter correct card number
+64	Enter incorrect card number
+65	Leave the card number blank
+66	Enter valid expiration date
+67	Enter invalid expiration date
+68	Leave the card expiration date blank
+69	Enter valid CVV
+70	Enter invalid CVV
+71	Leave the card CVV blank
+72	Click on the PayPal logo button
+73	Enter valid phone number
+74	Enter invalid phone number (BVA, ECP)
+75	Leave the phone number as blank
+76	Enter valid email
+77	Enter invalid email (BVA, ECP)
+78	Leave the email as blank
+79	Enter valid password
+80	Enter invalid password
+81	Leave the password blank
+82	Hit the 'Login' button after valid phone/mail & password entered
+83	Hit the 'Login' button after valid phone/mail & invalid password entered
+84	Hit the 'Login' button after invalid phone/mail & invalid password entered
+85	Hit the 'Login' button after invalid phone/mail & valid password entered
+86	Hit the 'Login' button when phone/mail & password left blank
+87	Select a payment instrument as a card from stored cards
+88	Select payment instrument as a PayPal from stored PayPal accounts
+89	Hit the 'Choose another way to pay' link
+90	Hit the 'Submit Payment' button after entering all the valid details
+91	Hit the 'Submit Payment' button after entering all the fields as invalid 
+92	Hit the 'Submit Payment' button when all feilds left blank
