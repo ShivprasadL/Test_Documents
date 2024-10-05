@@ -1,4 +1,4 @@
-Test Scenarios - Project 01
+Test Scenarios :
 
 
 Screen : Schedule And Register	
